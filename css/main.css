@@ -1,0 +1,240 @@
+.navbar-toggle {
+  border: solid 1px black;
+}
+
+#topjlogo {
+  max-width: 50%;
+}
+
+.btn-group.btn-group {
+  display: block;
+}
+
+@font-face {
+  font-family: "Korinna BT";
+  src: url('fonts/Korinna Bold BT.eot');
+  src: url('fonts/Korinna Bold BTeot?#iefix') format("embedded-opentype"),
+    url('fonts/Korinna Bold BT.woff') format("woff"),
+    url('fonts/Korinna Bold BT.ttf') format("truetype"),
+    url('fonts/Korinna Bold BT.svg#Korinna BT') format("svg");
+}
+
+#main-board {
+  padding: 10px;
+}
+
+.question button {
+  color: white;
+}
+
+.question {
+  justify-self: center;
+  width: 100%
+}
+
+.panel-heading {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+}
+
+.gridbtn {
+  width: 100%;
+  height: 90px;
+  background-color: rgb(0, 0, 0);
+}
+
+.gridstyling {
+  display: grid;
+  grid-template-rows: [ten] 1fr [fifty] 1fr [onehundred] 1fr [fivehundred] 1fr [onethousand] 1fr;
+  grid-auto-flow: column;
+  grid-gap: 10px;
+}
+
+.qcategory-title,
+.question,
+.scoretally {
+  font-family: Korinna BT;
+}
+
+.container-fluid {
+  max-width: 100%;
+}
+
+.logo {
+  padding: 45px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#score1 {
+  color: green;
+  font-size: 35px;
+}
+
+#score2 {
+  color: rgb(0, 0, 0);
+  font-size: 35px;
+}
+
+#score3 {
+  color: #f3ed7b;
+  font-size: 35px;
+}
+
+.modal-header {
+  color: #000000;
+  font-size: 5px;
+}
+
+.navbar-header {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.button {
+  height: 100%;
+  width: 100%;
+}
+
+.btn-outline-secondary {
+  display: flex;
+  flex-direction: row;
+}
+
+.top {
+  height: 120px;
+  width: 100%;
+  background-color: red;
+}
+
+.playeropt {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100vw;
+  align-content: center;
+}
+
+#player1 {
+  color: rgb(0, 0, 0);
+  font-size: 35px;
+}
+
+.negative {
+  color: red !important;
+}
+
+.gametitle {
+  display: flex;
+  align-items: center;
+}
+
+.modal-dialog {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100vh;
+  border: #000000;
+}
+
+#headline {
+  font-size: 30px;
+}
+
+.panel-footer {
+  padding: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+h4 {
+  font-size: 25px;
+}
+
+h5 {
+  font-size: 35px;
+}
+
+
+h1 {
+  color: red;
+}
+
+p {
+  font-size: 250px;
+}
+
+.btn:hover, .btn:active {
+  transform: scale(1.1); 
+}
+
+.btn.btn:hover {
+  background-color: #d38b50f0; 
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  margin: 0;
+  background-color: #ffffffd3;
+}
+
+footer {
+  margin-top: auto;
+  background-color: #ffffff;
+  color: rgb(0, 0, 0);
+  padding: 10px 20px;
+  text-align: center;
+}
+
+.scoreboard {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.player {
+  display: flex;
+  align-items: center;
+  color: rgb(0, 0, 0);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 70px;
+}
+
+.player label {
+  margin-right: 30px;
+  font-size: 25px;
+}
+
+.player input {
+  width: 130px;
+  font-size: 38px;
+  text-align: center;
+}
+
+button {
+  margin-top: 10px;
+  padding: 10px 20px;
+  background-color: #ffffff;
+  color: rgb(0, 0, 0);
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #ffffff;
+}
+
+.text-on-right {
+  text-align: right;
+  padding: 2px;
+  background-color: #ffffff; 
+  font-size: 16px;
+  font-family: Arial, sans-serif;
+}
