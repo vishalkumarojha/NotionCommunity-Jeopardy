@@ -85,7 +85,22 @@
 .modal-header {
   color: #000000;
   font-size: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  width: 100%;
+  box-sizing: border-box;
+  flex-wrap: wrap;
 }
+
+.modal-title {
+  font-size: 80px;
+  white-space: normal;
+  word-wrap: break-word; 
+  overflow-wrap: break-word;
+}
+
 
 .navbar-header {
   display: flex;
@@ -240,3 +255,5 @@ button:hover {
   font-size: 16px;
   font-family: Arial, sans-serif;
 }
+
+.btn
