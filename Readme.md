@@ -28,9 +28,9 @@ JavaScript: For handling game interactivity, including question selection, score
 TypeScript: For adding type safety and improving the reliability of the game's logic.
 
 
-Getting Started
+**Getting Started**
 
-Prerequisites
+**Prerequisites**
 
 To run this project locally, you will need:
 
