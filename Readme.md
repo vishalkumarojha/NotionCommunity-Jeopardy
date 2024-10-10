@@ -1,4 +1,4 @@
-Jeopardy Game for Notion Community - VIT Bhopal University
+**Jeopardy Game for Notion Community - VIT Bhopal University**
 
 Welcome to the Jeopardy Game for Notion Community at VIT Bhopal University! This is an interactive quiz game inspired by the popular game show Jeopardy, developed using HTML, CSS, JavaScript, and TypeScript. The game is designed to offer an engaging and fun way to test your knowledge across various topics relevant to the university community.
 
