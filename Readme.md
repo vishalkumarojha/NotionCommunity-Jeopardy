@@ -17,7 +17,7 @@ Responsive Design: The game layout adapts to different screen sizes, ensuring a 
 TypeScript-Powered Logic: Ensures better type checking and structured code for game functionality.
 
 
-Technologies Used
+**Tech Stack Used**
 
 HTML: To structure the game layout.
 
