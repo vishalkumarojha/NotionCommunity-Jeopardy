@@ -39,7 +39,7 @@ A web browser (preferably Google Chrome, Firefox, or Edge)
 A text editor (like VS Code) if you wish to explore or modify the source code.
 
 
-Installation
+**Installation**
 
 1. Clone the repository:
 
@@ -55,7 +55,7 @@ cd jeopardy-game-notion-vitbhopal
 
 
 
-Modifying the Game
+**Modifying the Game**
 
 If you want to customize the game, feel free to modify the source files:
 
@@ -66,11 +66,11 @@ CSS: Customize the styling in styles.css.
 JavaScript/TypeScript: Add or modify game logic in script.js or game.ts.
 
 
-Contributing
+**Contributing**
 
 We welcome contributions from the Notion and VIT Bhopal community! Feel free to open an issue if you find bugs or have suggestions for new features. Pull requests are also appreciated.
 
-Steps to Contribute:
+**Steps to Contribute:**
 
 1. Fork the repository.
 
